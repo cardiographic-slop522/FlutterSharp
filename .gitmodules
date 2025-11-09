@@ -1,0 +1,3 @@
+[submodule "extern/flet"]
+	path = extern/flet
+	url = https://github.com/flet-dev/flet
